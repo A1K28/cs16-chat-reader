@@ -1,4 +1,4 @@
-# Counter Strike 1.6 Chat Reader (VER 0.1 Beta)
+# Counter Strike 1.6 Chat Reader (VER 0.3 Beta)
 Reads and automatically evaluates the equation shown in chat, and writes the answer before anyone else - thus claiming the bonus.
 
 ## How It Works:
